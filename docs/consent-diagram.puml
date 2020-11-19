@@ -1,0 +1,6 @@
+"MyData\nAccount Owner"<-Operator: Consent form
+"MyData\nAccount Owner"->Operator: Account Owner selections
+Operator->Operator: Create Consent Records\nand 1st Consent Status Records
+Operator->Service: Consent Record and associated\nStatus Record delivery
+Service->Service: Install Consent
+Operator<-Service: Ack
