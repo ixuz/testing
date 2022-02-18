@@ -1,4 +1,4 @@
-# project-website   eyyy
+# project-website
 Here it is: [ https://mydata-infrastructure-project.github.io](https://mydata-infrastructure-project.github.io)
 
 ### Usage
