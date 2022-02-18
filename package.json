@@ -1,7 +1,7 @@
 {
     "title": "MyData Infrastructure Project",
     "name": "MyData-Infrastructure-Project",
-    "version": "0.1.1",
+    "version": "0.1.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch",
         "dist": "node_modules/.bin/gulp dist"
